@@ -74,6 +74,10 @@ A: no, i'm spongetoo
 
 A: nah, it pretends to be 'accurate'
 
+**Q: can i credit you if i followed all the steps**
+
+A: no need to, just say it's fake + was made using ntsc-rs by valadaptive and there you go, that way ppl will not confuse it as a reel vhs. joking 'bout having a real vcr is allowed as well, cuz yeah lol
+
 **Q: are these malware/stuff that can hack into ur accounts**
 
 A: no, all of these files/links i've provided are virus free, if it gets detected call it a false positive; alternatively, scan it on virustotal
