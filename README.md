@@ -47,7 +47,7 @@ step 7 -- [download install and whip up your copy of handbrake](https://handbrak
 
 step 8 -- drop yo vid to handbrake, configure then let 'em cook (save both of these presets in the future in case you wanna do it again!)
 - make sure that all the options are default, then...
-- dimensions storage size 352x240, display size 319, no crop, uncheck optimal size
+- dimensions storage size 352x240, display size 319/320, no crop, uncheck optimal size
 - no filters
 - video same framerate as source, variable framerate, constant quality 16 rf, encoder level auto
 - audio bitrate 64, stereo, sample rate 11.025, no gain
